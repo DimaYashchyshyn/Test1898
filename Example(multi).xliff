@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="14054" original="/Example(multi).xlsx" source-language="en" target-language="ru" datatype="plaintext">
+    <body>
+      <trans-unit id="3657780" identifier="1aca0e4bcd5107d93d26932c16bafd96">
+        <source>String #1</source>
+        <target state="translated">Строка #1</target>
+        <note>Context: Identifier_1</note>
+      </trans-unit>
+      <trans-unit id="3657782" identifier="1e44446e71598a8bf3313de007500e90">
+        <source>String #2</source>
+        <target state="translated">Строка #2</target>
+        <note>Context: Identifier_2</note>
+      </trans-unit>
+      <trans-unit id="3657784" identifier="a9df62af178f0209abd1e779180e4def">
+        <source>String #3</source>
+        <target state="translated">Строка #3</target>
+        <note>Context: Identifier_3</note>
+      </trans-unit>
+      <trans-unit id="3657786" identifier="5dd7393e577cb27591f3e7886a5a33d7">
+        <source>String #4</source>
+        <target state="translated">Строка #4</target>
+        <note>Context: Identifier_4</note>
+      </trans-unit>
+      <trans-unit id="3657788" identifier="36562d116aed490f12d2c9d57ec4dcd8">
+        <source>Yuliia</source>
+        <target state="translated">Юлия</target>
+        <note>Context: Ihorivha</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

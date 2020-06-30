@@ -1,0 +1,20 @@
+
+{
+  "LBL": {
+    "Notification": "Notification",
+    "SINGLE_Notification": "Notification",
+    "LBL_NOTIFICATION_CONTENTS": "Notification contents",
+    "FL_TITLE": "title",
+    "LBL_NOTIFICATION_INFORMATION": "Basic information",
+    "FL_RELATED_MODULE": "Related module",
+    "FL_MESSAGE": "Notification contents",
+    "LBL_SCHEDULE": "Schedule",
+    "LBL_RECEIVING_MAIL_NOTIFICATIONS": "Receiving mail notifications",
+    "PLL_5_MIN": "5 minutes",
+    "Notification1": "Notification",
+    "LBL_NO_UNREAD_NOTIFICATIONS": "No unread notifications"
+  },
+  "LBL1": {
+    "JS_MARKED_AS_READ": "Marked as read"
+  }
+}
