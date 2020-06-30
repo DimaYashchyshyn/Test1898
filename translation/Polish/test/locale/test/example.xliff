@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file id="14062" original="/Gee/example.php" source-language="en" target-language="pl" datatype="plaintext">
+    <body>
+      <trans-unit id="3657812" identifier="23448ce617323a8320fbaa282b6f8be2">
+        <source>String for translation 6</source>
+        <target state="translated">Ciąg dla tłumaczenia 6</target>
+        <note>Context: $en_lang["Identifier_7"]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
