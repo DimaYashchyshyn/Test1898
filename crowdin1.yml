@@ -1,0 +1,5 @@
+files:
+  - source: /*.ini
+    translation: /test/%locale%/%original_file_name%
+  - source: /*.xliff
+    translation: /test2/%locale%/%original_file_name%
