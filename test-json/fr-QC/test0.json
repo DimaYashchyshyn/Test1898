@@ -1,0 +1,19 @@
+{
+  "LBL": {
+    "Notification": "Акфтсфші",
+    "SINGLE_Notification": "fnacais",
+    "LBL_NOTIFICATION_CONTENTS": "francais",
+    "FL_TITLE": "francais",
+    "LBL_NOTIFICATION_INFORMATION": "fr",
+    "FL_RELATED_MODULE": "fr",
+    "FL_MESSAGE": "fr",
+    "LBL_SCHEDULE": "fr",
+    "LBL_RECEIVING_MAIL_NOTIFICATIONS": "fr",
+    "PLL_5_MIN": "fr",
+    "Notification1": "frrr",
+    "LBL_NO_UNREAD_NOTIFICATIONS": "f"
+  },
+  "LBL1": {
+    "JS_MARKED_AS_READ": "dhdf"
+  }
+}
