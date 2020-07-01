@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file id="14062" original="/Gee/example.php" source-language="en" target-language="nl" datatype="plaintext">
+    <body>
+      <trans-unit id="3657800" identifier="b109e2b27cd2f59195cbce87ec90b3db" translate="no">
+        <source>String for translation 1</source>
+        <target state="needs-translation">String for translation 1</target>
+        <note>Context: $en_lang["Identifier_1"]</note>
+      </trans-unit>
+      <trans-unit id="3657802" identifier="a1565022b8bfef492f0045ac947ad62b" translate="no">
+        <source>String for translation 2</source>
+        <target state="needs-translation">String for translation 2</target>
+        <note>Context: $en_lang["Identifier_2"]</note>
+      </trans-unit>
+      <trans-unit id="3657804" identifier="2ad401a99fe7cf057203fe25b03ce712" translate="no">
+        <source>String for translation 3</source>
+        <target state="needs-translation">String for translation 3</target>
+        <note>Context: $en_lang["Identifier_3"]</note>
+      </trans-unit>
+      <trans-unit id="3657806" identifier="d48ae83d02bf1ac46985fa33c5838bed" translate="no">
+        <source>String for translation 4</source>
+        <target state="needs-translation">String for translation 4</target>
+        <note>Context: $en_lang["Identifier_4"]</note>
+      </trans-unit>
+      <trans-unit id="3657810" identifier="ec177923076700981cd5e7c62c11c0c7" translate="no">
+        <source>String for translation 6</source>
+        <target state="needs-translation">String for translation 6</target>
+        <note>Context: $en_lang["Identifier_6"]</note>
+      </trans-unit>
+      <trans-unit id="3657812" identifier="23448ce617323a8320fbaa282b6f8be2">
+        <source>String for translation 6</source>
+        <target state="needs-translation">String for translation 6</target>
+        <note>Context: $en_lang["Identifier_7"]</note>
+      </trans-unit>
+      <trans-unit id="3657808" identifier="d566a295e99e5d152f7c67fce27cf927" translate="no">
+        <source>String for translation 5</source>
+        <target state="needs-translation">String for translation 5</target>
+        <note>Context: $en_lang["Identifier_5"]</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
