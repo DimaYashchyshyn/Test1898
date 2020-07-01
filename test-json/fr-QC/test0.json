@@ -1,19 +1,19 @@
 {
   "LBL": {
-    "Notification": "Notification",
-    "SINGLE_Notification": "Notification",
-    "LBL_NOTIFICATION_CONTENTS": "Notification contents",
-    "FL_TITLE": "title",
-    "LBL_NOTIFICATION_INFORMATION": "Basic information",
-    "FL_RELATED_MODULE": "Related module",
-    "FL_MESSAGE": "Notification contents",
-    "LBL_SCHEDULE": "Schedule",
-    "LBL_RECEIVING_MAIL_NOTIFICATIONS": "Receiving mail notifications",
-    "PLL_5_MIN": "5 minutes",
-    "Notification1": "Notification",
-    "LBL_NO_UNREAD_NOTIFICATIONS": "No unread notifications"
+    "Notification": "Акфтсфші",
+    "SINGLE_Notification": "fnacais",
+    "LBL_NOTIFICATION_CONTENTS": "francais",
+    "FL_TITLE": "francais",
+    "LBL_NOTIFICATION_INFORMATION": "fr",
+    "FL_RELATED_MODULE": "fr",
+    "FL_MESSAGE": "fr",
+    "LBL_SCHEDULE": "fr",
+    "LBL_RECEIVING_MAIL_NOTIFICATIONS": "fr",
+    "PLL_5_MIN": "fr",
+    "Notification1": "frrr",
+    "LBL_NO_UNREAD_NOTIFICATIONS": "f"
   },
   "LBL1": {
-    "JS_MARKED_AS_READ": "Marked as read"
+    "JS_MARKED_AS_READ": "dhdf"
   }
 }
